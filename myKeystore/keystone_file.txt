@@ -1,0 +1,7 @@
+password:		yy4649yy4869yy
+confirm password:	yy4649yy4869yy
+
+alias:			user
+password:		kusamoti_200206064649
+
+First and Last Name:	Yamamoto Yuuiti
